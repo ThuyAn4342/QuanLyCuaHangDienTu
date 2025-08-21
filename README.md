@@ -4,6 +4,7 @@
 
 ## 2. Tính năng chính
 - **Đăng nhập/Phân quyền**
+  + Hệ thống chỉ cho phép tài khoản có quyền quản trị ADMIN đăng nhập vào để quản trị hệ thống
 - **Trang bán hàng**
   + Thêm sản phẩm vào giỏ hàng, tạo đơn hàng và cập nhật lượng tồn kho.
   + Xuất hóa đơn ra file PDF.
